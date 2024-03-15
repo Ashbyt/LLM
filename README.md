@@ -8,3 +8,4 @@ https://michelnivard.github.io/gptstudio/
 https://github.com/soumyaray/air
 https://www.infoworld.com/article/3694611/8-chatgpt-tools-for-r-programming.html
 https://pypi.org/project/llm/
+https://www.baeldung.com/java-langchain-basics
